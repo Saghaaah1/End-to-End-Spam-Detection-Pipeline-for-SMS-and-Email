@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "end-to-end-spam-detection-pipeline-for-sms-and-email"
+version = "0.1.0"
+description = "Production-ready spam detection NLP pipeline for SMS and email"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.26",
+    "scikit-learn>=1.5",
+    "mlflow>=2.14",
+    "matplotlib>=3.8",
+    "nltk>=3.9",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "black>=24.0",
+    "isort>=5.13",
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+]
