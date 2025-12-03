@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/0/ec4febd0505840ca990176acda5330eb/artifacts
+end_time: 1764586077102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec4febd0505840ca990176acda5330eb
+run_name: caring-slug-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764586077016
+status: 3
+tags: []
+user_id: sara

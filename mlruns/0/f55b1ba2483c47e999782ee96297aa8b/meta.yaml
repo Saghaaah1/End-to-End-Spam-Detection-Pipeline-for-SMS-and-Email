@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/0/f55b1ba2483c47e999782ee96297aa8b/artifacts
+end_time: 1764586098173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f55b1ba2483c47e999782ee96297aa8b
+run_name: kindly-squirrel-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764586096539
+status: 3
+tags: []
+user_id: sara

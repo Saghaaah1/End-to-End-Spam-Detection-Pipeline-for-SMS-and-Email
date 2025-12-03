@@ -1,0 +1,6 @@
+artifact_location: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/222194654428590849
+creation_time: 1764587078923
+experiment_id: '222194654428590849'
+last_update_time: 1764587078923
+lifecycle_stage: active
+name: SpamNLP_SpamDetection

@@ -1,0 +1,22 @@
+artifact_path: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/222194654428590849/models/m-5be14bd8827c41209d6b6bad9cb4168b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-5be14bd8827c41209d6b6bad9cb4168b
+model_size_bytes: 8721
+model_uuid: m-5be14bd8827c41209d6b6bad9cb4168b
+prompts: null
+run_id: 2f90121bdd6d4d6c92cc90339b8ad370
+utc_time_created: '2025-12-01 14:19:38.507254'

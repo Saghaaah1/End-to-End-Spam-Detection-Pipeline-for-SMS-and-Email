@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/0/d4905f18d7c14e87ac567db9831aead3/artifacts
+end_time: 1764586081992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4905f18d7c14e87ac567db9831aead3
+run_name: abundant-pig-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764586080734
+status: 3
+tags: []
+user_id: sara

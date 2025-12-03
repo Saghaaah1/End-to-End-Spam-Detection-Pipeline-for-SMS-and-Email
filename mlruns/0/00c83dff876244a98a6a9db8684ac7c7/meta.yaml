@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/0/00c83dff876244a98a6a9db8684ac7c7/artifacts
+end_time: 1764586093066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c83dff876244a98a6a9db8684ac7c7
+run_name: suave-turtle-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764586091428
+status: 3
+tags: []
+user_id: sara

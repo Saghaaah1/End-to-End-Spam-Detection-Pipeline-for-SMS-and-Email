@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/0/586e2d00bcdc4218911970d6be33efc0/artifacts
+end_time: 1764586087962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 586e2d00bcdc4218911970d6be33efc0
+run_name: funny-sloth-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764586086335
+status: 3
+tags: []
+user_id: sara

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/222194654428590849/b9f57ac7957149bf8d7488bec2bb8e3c/artifacts
+end_time: 1764588068933
+entry_point_name: ''
+experiment_id: '222194654428590849'
+lifecycle_stage: active
+run_id: b9f57ac7957149bf8d7488bec2bb8e3c
+run_name: EMAIL_tok=word_with_punct_feat=1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764588067393
+status: 3
+tags: []
+user_id: sara

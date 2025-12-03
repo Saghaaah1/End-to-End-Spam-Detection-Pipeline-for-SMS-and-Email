@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/222194654428590849/models/m-5eafdc18569540b9a838edab9222b3bb/artifacts
+creation_timestamp: 1764598785401
+experiment_id: '222194654428590849'
+last_updated_timestamp: 1764598786555
+model_id: m-5eafdc18569540b9a838edab9222b3bb
+model_type: null
+name: spam_classifier
+source_run_id: bb4cfbac8aca42349a9bad23694728b2
+status: 2
+status_message: null

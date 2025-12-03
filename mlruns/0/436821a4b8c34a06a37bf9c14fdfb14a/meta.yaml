@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/0/436821a4b8c34a06a37bf9c14fdfb14a/artifacts
+end_time: 1764586101405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 436821a4b8c34a06a37bf9c14fdfb14a
+run_name: abrasive-deer-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764586099594
+status: 3
+tags: []
+user_id: sara

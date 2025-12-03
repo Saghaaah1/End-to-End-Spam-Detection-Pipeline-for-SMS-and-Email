@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sara/Desktop/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email/mlruns/222194654428590849/f9009a63e5384354b3f146dde6b5d4f3/artifacts
+end_time: 1764588078829
+entry_point_name: ''
+experiment_id: '222194654428590849'
+lifecycle_stage: active
+run_id: f9009a63e5384354b3f146dde6b5d4f3
+run_name: EMAIL_stopwords_feat=5000_lc=False_sw=None
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764588077065
+status: 3
+tags: []
+user_id: sara
