@@ -24,3 +24,5 @@ data/
 
 # macOS
 .DS_Store
+
+mlruns/
